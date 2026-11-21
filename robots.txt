@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mmas-omega.vercel.app/sitemap.xml
+Sitemap: https://ma-manasa-ambulance.vercel.app/sitemap.xml
